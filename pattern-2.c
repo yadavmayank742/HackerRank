@@ -4,9 +4,6 @@ Input Format
 
 The input will contain a single integer .
 
-Constraints
-
-
 Sample Input 0
 
 2
